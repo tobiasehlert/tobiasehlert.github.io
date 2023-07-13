@@ -1,0 +1,19 @@
+.centered .about h2 {
+  font-size: 2rem;
+}
+
+.footer .container {
+  font-size: 1.425rem;
+}
+.footer .container p {
+  margin: 0px;
+}
+
+.content article p {
+  text-align: unset;
+}
+
+.content article header {
+  margin-top: 4rem;
+  margin-bottom: 3rem;
+}

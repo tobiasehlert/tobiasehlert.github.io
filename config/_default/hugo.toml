@@ -1,0 +1,17 @@
+baseURL = "https://tobiasehlert.github.io/"
+title = "TobiasEhlert.github.io"
+
+theme = "hugo-coder"
+publishdir = "_site"
+
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+
+enableGitInfo = true
+enableRobotsTXT = true
+
+disableKinds = ["taxonomy"]
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
