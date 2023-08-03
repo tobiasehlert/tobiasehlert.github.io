@@ -1,6 +1,7 @@
 # tobiasehlert.github.io
 
 [![GitHub Pages deployment](https://github.com/tobiasehlert/tobiasehlert.github.io/actions/workflows/github-pages.yml/badge.svg)](https://github.com/tobiasehlert/tobiasehlert.github.io/actions/workflows/github-pages.yml)
+[![GitHub license](https://img.shields.io/github/license/tobiasehlert/tobiasehlert.github.io)](https://github.com/tobiasehlert/tobiasehlert.github.io/blob/main/LICENSE)
 
 [Tobias Lindberg](https://github.com/tobiasehlert) github profile site hosted on GitHub Pages.
 
