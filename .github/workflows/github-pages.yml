@@ -48,7 +48,7 @@ jobs:
             --logLevel debug \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
 
-      - name: Adding 404 to root
+      - name: Adjusting build artifacts
         run: |
           cp ./_site/en/404.html ./_site/404.html
 
