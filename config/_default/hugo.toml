@@ -1,5 +1,5 @@
 baseURL = "https://tobiasehlert.github.io/"
-title = "TobiasEhlert.github.io"
+title = "tobiasehlert.github.io"
 
 theme = "hugo-coder"
 publishdir = "_site"
