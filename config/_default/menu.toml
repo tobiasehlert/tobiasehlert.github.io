@@ -1,4 +1,4 @@
 [[main]]
   name = "About"
   weight = 2
-  url = "/en/about/"
+  url = "https://tobiaslindberg.com/en/about/"
