@@ -37,7 +37,7 @@ customCSS = ["css/custom.css", "css/icomoon.css"]
     target = "_blank"
 [[social]]
     name = "Twitter"
-    icon = "fa fa-2x fa-twitter"
+    icon = "fa fa-2x fa-x-twitter"
     weight = 4
     url = "https://twitter.com/EhlertTobias/"
     rel = "noreferrer"
@@ -51,8 +51,8 @@ customCSS = ["css/custom.css", "css/icomoon.css"]
     target = "_blank"
 [[social]]
     name = "DigitalOcean"
-    icon = "fa fa-2x fa-digitalocean"
-    weight = 7
+    icon = "fa fa-2x fa-digital-ocean"
+    weight = 6
     url = "https://m.do.co/c/452a006a298d"
     rel = "noreferrer"
     target = "_blank"
